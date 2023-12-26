@@ -16,6 +16,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+.logo{
+  text-decoration: none;
+  font-family: "Poppins" , sans-serif;
+  color:#f9ac54
+}
 
 .section__container {
   max-width: var(--max-width);
